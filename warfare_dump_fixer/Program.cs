@@ -101,7 +101,7 @@ namespace warfare_dump_fixer
 
             ulong RealJumpCount = bytes[RealJumpStartOFs + 1];
 
-            Console.WriteLine(DebugFileOffsetToIDA(StartOfsInstruction + 0x2).ToString("X16") + " - " +//
+            Console.WriteLine(DebugFileOffsetToIDA(StartOfsInstruction + 0x2).ToString("X16") + " - " +
                               DebugFileOffsetToIDA((ulong)RealJumpStartOFs + RealJumpCount - 0x1 + 0x2)
                                   .ToString("X16"));
 
