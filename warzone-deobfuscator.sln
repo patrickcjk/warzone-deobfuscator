@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warfare_dump_fixer", "warfare_dump_fixer\warfare_dump_fixer.csproj", "{5C76AACE-4B3C-4B57-BBC5-9F656421B1F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warzone-deobfuscator", "warzone-deobfuscator\warzone-deobfuscator.csproj", "{5C76AACE-4B3C-4B57-BBC5-9F656421B1F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
