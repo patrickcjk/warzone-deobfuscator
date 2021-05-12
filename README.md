@@ -1,2 +1,2 @@
-# warfare_dump_fixer
+# warzone-deobfuscator
 Originally made by kickbar#0242
